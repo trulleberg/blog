@@ -1,2 +1,5 @@
 output
 output/*
+cache
+cache/*
+srv.pid

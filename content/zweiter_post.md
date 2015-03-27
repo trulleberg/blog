@@ -14,7 +14,7 @@ einen RSS feed geben wird. Habe ich beschlossen mich mal damit zu befassen.
 Dies ist Quasi der Testpost ob es Funktioniert.
 
 #### Wo gibts den dann?
-Die Feeds liegen in der Datei `feeds_all.atom.xml` direkt im [Webroot](htto://blog.bellmer.org/feeds_all.atom.xml)
+Die Feeds liegen in der Datei `feeds_all.atom.xml` direkt im [Webroot](http://blog.bellmer.org/feeds_all.atom.xml)
 
 
 Bis dahin,
