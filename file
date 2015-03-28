@@ -1,0 +1,25 @@
+
+Title: RSS Feeds update
+Date: 2015-03-28
+Category: misc
+Tags: blog
+Slug: rss-feeds-update
+lang: de
+Authors: Hannes Bellmer
+Summary: Neue Feed URL
+Status: published
+
+#### Was gibts neues?
+Da ich schon länger (ca. 10 Jahre) RSS Feeds abonniert habe wollte ich noch
+dafür sorgen, dass meine neues Blog auch unter `DOMAIN/feed` vie RSS zu
+erreichen ist.
+
+=> Das sollte jetzt klappen, es gibt sowohl [RSS](SITEURL/feed/rss.xml) als
+auch [ATOM](SITEURL/feed/atom.xml) Feeds.
+
+Die Feeds liegen in der Datei `feeds_all.atom.xml` direkt im [Webroot](http://blog.bellmer.org/feeds_all.atom.xml)
+
+
+Bis dahin,
+viel Spaß beim lesen!
+Hannes
