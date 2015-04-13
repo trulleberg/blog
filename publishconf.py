@@ -13,8 +13,8 @@ from pelicanconf import *
 SITEURL = 'http://blog.bellmer.org'
 RELATIVE_URLS = False
 
-FEED_ALL_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+#FEED_ALL_ATOM = 'feed/all.atom.xml'
+#CATEGORY_FEED_ATOM = 'feed/%s.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
 

@@ -1,4 +1,5 @@
 *~
+cache/
 ._*
 *.lock
 *.DS_Store
@@ -6,3 +7,4 @@
 *.out
 *.py[cod]
 output
+*.pyc
