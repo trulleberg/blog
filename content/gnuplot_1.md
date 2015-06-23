@@ -1,6 +1,6 @@
-Title: Gnuplot Y Range invalid
+Title: Gnuplot Y Value undefined
 Date: 2015-06-16
-Modified: 2015-06-16
+Modified: 2015-06-23
 Category: tech
 Tags: gnuplot
 Slug: gnuplot-y-range-invalid
@@ -12,7 +12,7 @@ Summary: Gnuplot bemängelt das alle Y-Werte ungültig sind.
 Während ich heute fleißig an meinen Gnuplot Scripten geschaubt habe, bin ich einige male über folgende Fehlermeldung gestolpert:
 
     :::
-    warning: Skipping data file with no valid points
+    line 0: all points y value undefined!
 
 Da brachte mich doch zum staunen, da das gleiche gnuplot-file vorher einwandfrei funktioniert hatte.
 
